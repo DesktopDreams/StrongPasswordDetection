@@ -1,4 +1,4 @@
-# StrongPasswordDetection
+# Strong Password Detection
 This simple program will determine whether your password is strong or otherwise.
 
 User can type in their password.
